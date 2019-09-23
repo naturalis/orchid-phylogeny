@@ -1,0 +1,16 @@
+Cluster_381  = 1-3984, representative annotation: ITS
+Cluster_15  = 3985-5258, representative annotation: Bletilla ochracea xanthine dehydrogenase (Xdh) gene partial cds
+Cluster_1  = 5259-14439, representative annotation: Coelogyne sanderiana matK pseudogene complete sequence and trnK gene partial sequence; chloroplast genes for chloroplast products
+Cluster_2  = 14440-25857, representative annotation: Rhyncholaelia glauca isolate WEH-134 tRNA-Leu (trnL) gene and trnL-trnF intergenic spacer partial sequence; chloroplast
+Cluster_3  = 25858-31184, representative annotation: Oreorchis patens voucher Inoue2 atpB-rbcL intergenic spacer partial sequence; ribulose-15-bisphosphate carboxylase/oxygenase large subunit (rbcL) gene complete cds; and rbcL-accD intergenic spacer partial sequence; chloroplast
+Cluster_4  = 31185-38007, representative annotation: Phaius flavus PsbA (psbA) gene partial cds; psbA-rps19 intergenic spacer complete sequence; ribosomal protein S19 (rps19) gene complete cds; and rps19-trnH intergenic spacer complete sequence; chloroplast
+Cluster_5  = 38008-41492, representative annotation: Maxillaria canarina voucher FLAS:Whitten 3256 hypothetical protein Ycf1 (ycf1) gene partial cds; chloroplast
+Cluster_6  = 41493-42664, representative annotation: Cattleya warneri isolate 42 RNA polymerase beta subunit (rpoC1) gene partial cds; chloroplast
+Cluster_7  = 42665-43998, representative annotation: Lockhartia acuta voucher Blanco 2567 FLAS hypothetical protein (ycf1) gene partial cds; chloroplast
+Cluster_8  = 43999-46394, representative annotation: Sobralia macrantha PsaB (psaB) gene partial cds; chloroplast
+Cluster_9  = 46395-48191, representative annotation: Pleione grandiflora trnL-trnF intergenic spacer chloroplast sequence
+Cluster_10  = 48192-50518, representative annotation: Cypripedium formosanum isolate S17 trnS-trnM intergenic spacer partial sequence; chloroplast
+Cluster_11  = 50519-51196, representative annotation: Cattleya harrisoniana isolate 16 RNA polymerase beta subunit (rpoB) gene partial cds; chloroplast
+Cluster_12  = 51197-53296, representative annotation: Encyclia nematocaulon voucher Bastos 323 (HUEFS) rpl32-trnL intergenic spacer partial sequence; chloroplast
+Cluster_13  = 53297-55744, representative annotation: Bulbophyllum histrionicum isolate FS1232 atpH-atpI intergenic spacer partial sequence; and ATP synthase (atpI) gene partial cds; chloroplast
+Cluster_14  = 55745-56573, representative annotation: Paphiopedilum vietnamense acetyl-CoA carboxylase beta subunit (accD) gene partial cds; chloroplast

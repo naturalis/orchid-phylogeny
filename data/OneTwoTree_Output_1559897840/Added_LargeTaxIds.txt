@@ -1,0 +1,6 @@
+
+TaxID-4577: 3 - gi|Z11973.1|taxonid|4577|organism|Zea,
+TaxID-4565: 3 - gi|D00206.1|taxonid|4565|organism|Triticum,
+TaxID-4530: 3 - gi|D00207.1|taxonid|4530|organism|Oryza,
+TaxID-3880: 3 - gi|BT051802.1|taxonid|3880|organism|Medicago,
+TaxID-29760: 3 - gi|AJ635355.1|taxonid|29760|organism|Vitis,

@@ -1,0 +1,3 @@
+Species with data in Genbank: 6170
+User Selected Outgroup: Amborella_trichopoda
+Species in final alignment file: 6081

@@ -12,7 +12,7 @@ my $partitions;
 my $raxml = 'raxml';
 my $cores = 4;
 my $zip   = 1;
-my $args  = '-m GTRGAMMA -f e';
+my $args  = '-m GTRGAMMA -f e --silent --no-seq-check';
 GetOptions(
     'raxml=s'      => \$raxml,
     'matrix=s'     => \$matrix,
@@ -48,4 +48,5 @@ system($command);
 
 # clean up
 system( 'gzip', '-9', $infile );
-chdir($oldpath);
+unlink( "${infile}.reduced" );
+chdir( $oldpath );

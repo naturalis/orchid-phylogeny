@@ -28,7 +28,7 @@ for my $infile ( @infiles ) {
             # cache bootstrap indices
             if ( not $indices{$infile}->[$i-1] ) {
                 my @i;
-                for ( 0 .. length($seq) ) {
+                for ( 1 .. length($seq) ) {
                     push @i, int rand length($seq);
                 }
                 $indices{$infile}->[$i-1] = \@i;

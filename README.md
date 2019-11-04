@@ -18,3 +18,8 @@ The workflow is as follows:
 3. [concatenate](script/concat.pl) the bootstrapped partitions into replicates of the large nexus matrix
 4. [estimate](script/raxml_wrap.pl) branch lengths on the fixed topology using raxml
 5. [parallelize](script/raxml_wrap.sh) this estimation on the high-mem OpenStack node
+
+To do:
+
+6. calibrate node ages on each of the bootstrapped topologies using this [template](data/treePL_inputD9.txt)
+7. combine bootstrapped topologies and compute consensus with TreeAnnotator

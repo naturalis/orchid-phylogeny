@@ -16,11 +16,12 @@ while( my $entry = readdir $dh ) {
 		my $outfile = $indir . '/' . $entry . '.out';
 		my $logfile = $indir . '/' . $entry . '.log';
 		my $cmdfile = $indir . '/' . $entry . '.cmd';
+		my $intree  = $indir . '/' . $entry;
 		
 		open my $in, '<', $template or die $!;
 		open my $out, '>', $cmdfile or die $!;
 		while(<$in>) {
-			s/Orchid\.tre/$entry/;
+			s/Orchid\.tre/$intree/;
 			s/Orchid_dated\.tre/$outfile/;
 			print $out $_;
 		}

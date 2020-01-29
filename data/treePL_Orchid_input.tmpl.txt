@@ -1,5 +1,5 @@
 [thorough on, 56573 sites, smoothing 0.1 obtained from cross val, optimisation settings from prime]
-treefile = Orchid.tre
+treefile = Orchid_OTT.tre
 numsites = 56573
 mrca = m1 Aa_paleacea Abolboda_macrostachya
 mrca = m2 Aa_paleacea Acianthus_amplexicaulis

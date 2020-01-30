@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/210319646.svg)](https://zenodo.org/badge/latestdoi/210319646)
+
 # orchid-phylogeny
 ## Time-calibrated, bootstrapped estimates of orchid node ages
 
